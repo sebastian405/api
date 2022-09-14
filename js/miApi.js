@@ -36,3 +36,4 @@ fetch(url2)
 }
     // impri.innerHTML = data[0].nombre+ "<br>" + data[0].apellido + "<br>" + data[0].telefono + "<br>" + data[0].cedula + "<br>" + data[1].nombre+ "<br>" + data[1].apellido + "<br>" + data[1].telefono + "<br>" + data[1].cedula;
 })
+.catch(error => console.log(`Hemos tenido un error: ${error.message()}`))

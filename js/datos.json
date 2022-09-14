@@ -10,5 +10,11 @@
         "apellido": "Rodriguez",
         "telefono": 3007898878,
         "cedula": 1007567654
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Rodriguez",
+        "telefono": 3007898878,
+        "cedula": 1007567654
     }
 ]
