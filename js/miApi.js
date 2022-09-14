@@ -1,0 +1,1 @@
+fetch('datos.txt');
