@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Maria",
+        "apellido": "Velez",
+        "telefono": 3007898878,
+        "cedula": 1007567654
+    },
+    {
+        "nombre": "Susana",
+        "apellido": "Rodriguez",
+        "telefono": 3007898878,
+        "cedula": 1007567654
+    }
+]
